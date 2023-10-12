@@ -1,0 +1,45 @@
+/*
+CSS Rules
+selector {
+	property: value:
+}
+*/
+
+*{
+	font-family: 'Roboto Mono', monospace;
+	font-size: 15px
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+	heigt: 100vh;
+	text-align: center;
+}
+
+img{
+	height: 250px;
+	width: 250px;
+	border-radius: 100px;
+}
+
+#landing {
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	height: 50vh;
+	color: white;
+}
+
+#zuitt-motto {
+	letter-spacing: 5px;
+}
+
+}
+
+#introduction {
+	font-size: 10px;
+	letter-spacing: 5px
+}
